@@ -81,18 +81,21 @@ Scroll down to find Deploy button. Click it.
    User database is in Cognito User Pool.
    Find your User Pool id among CloudFormation stack's outputs.
 
-# Credits
+---
 
-This works uses [AWS Serverless Image Handler Lambda wrapper for SharpJS](https://github.com/awslabs/serverless-image-handler).
+## Credits
 
-Demo gallery uses images by
-[Free-Photos](https://pixabay.com/users/Free-Photos-242387/),
-[Albert Dezetter](https://pixabay.com/users/DEZALB-1045091/),
-[engin akyurt](https://pixabay.com/users/Engin_Akyurt-3656355/),
-[Michelle Maria](https://pixabay.com/users/Mariamichelle-165491/),
-[Jon Toy](https://pixabay.com/users/jtyoder-601591/),
-[Peter Vandecaveye](https://pixabay.com/users/Connectingdots-919354/)
-from [Pixabay](https://pixabay.com/).
-Maksim Aniskov (https://github.com/MaksimAniskov/aws-serverless-photo-gallery/tree/master)
+This work uses [AWS Serverless Image Handler Lambda wrapper for SharpJS](https://github.com/awslabs/serverless-image-handler).
+
+Inspiration taken from [Maksim Aniskov](https://github.com/MaksimAniskov/aws-serverless-photo-gallery/tree/master).
+
+Demo gallery uses images by  
+[Free-Photos](https://pixabay.com/users/Free-Photos-242387/),  
+[Albert Dezetter](https://pixabay.com/users/DEZALB-1045091/),  
+[Engin Akyurt](https://pixabay.com/users/Engin_Akyurt-3656355/),  
+[Michelle Maria](https://pixabay.com/users/Mariamichelle-165491/),  
+[Jon Toy](https://pixabay.com/users/jtyoder-601591/),  
+[Peter Vandecaveye](https://pixabay.com/users/Connectingdots-919354/)  
+from [Pixabay](https://pixabay.com/)
 
 ---
